@@ -1,0 +1,6 @@
+tk
+google-cloud-vision
+google-cloud-translate
+opencv-python
+Pillow
+deepl 
